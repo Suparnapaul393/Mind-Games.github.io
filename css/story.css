@@ -1,5 +1,5 @@
 body{
-	background:url("file:///Users/apple/Desktop/My%20First%20Project/Mind%20Games/img/background1.jpg") no-repeat;
+	background:url("img/background1.jpg") no-repeat;
 }
 
 button {
@@ -44,7 +44,7 @@ h1{
 	text-align: center;
 }
 .background1{
-	background: url("file:///Users/apple/Desktop/My%20First%20Project/Mind%20Games/img/background2.jpg")no-repeat;
+	background: url("img/background2.jpg")no-repeat;
 }
 
 .gear2{
@@ -52,7 +52,7 @@ h1{
 	font-family:'Sacramento', cursive;
 }
 .background2{
-	background: url("file:///Users/apple/Desktop/My%20First%20Project/Mind%20Games/img/doomed.jpg") no-repeat;
+	background: url("img/doomed.jpg") no-repeat;
 }
 .gear3{
 font-size: 30px;
