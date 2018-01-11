@@ -1,5 +1,5 @@
 body{
-	background:url("file:///Users/apple/Desktop/My%20First%20Project/Mind%20Games/img/background1.jpg") no-repeat;
+	background:url("img/background1.jpg") no-repeat;
 }
 
 button {
@@ -44,7 +44,7 @@ h1{
 	text-align: center;
 }
 .background1{
-	background: url("file:///Users/apple/Desktop/My%20First%20Project/Mind%20Games/img/background2.jpg")no-repeat;
+	background: url("img/background2.jpg")no-repeat;
 }
 
 .gear2{
@@ -52,14 +52,14 @@ h1{
 	font-family:'Sacramento', cursive;
 }
 .background2{
-	background: url("file:///Users/apple/Desktop/My%20First%20Project/Mind%20Games/img/doomed.jpg") no-repeat;
+	background: url("img/doomed.jpg") no-repeat;
 }
 .gear3{
 font-size: 30px;
 	font-family:'Sacramento', cursive;	
 }
 .background3{
-	background: url("file:///Users/apple/Desktop/My%20First%20Project/Mind%20Games/img/background3.jpg") no-repeat;
+	background: url("img/background3.jpg") no-repeat;
 }
 .game1{
 font-family:'Macondo', cursive;;
@@ -81,13 +81,13 @@ font-size: 30px;
 	font-family:'Indie Flower', cursive;	
 }
 .background4{
-	background: url("file:///Users/apple/Desktop/My%20First%20Project/Mind%20Games/img/background4.jpg") no-repeat;
+	background: url("img/background4.jpg") no-repeat;
 }
 .background5{
-	background: url("file:///Users/apple/Desktop/My%20First%20Project/Mind%20Games/img/background5.jpg") no-repeat;
+	background: url("img/background5.jpg") no-repeat;
 }
 .background6{
-	background:url("file:///Users/apple/Desktop/My%20First%20Project/Mind%20Games/img/background6.jpg") no-repeat;
+	background:url("img/background6.jpg") no-repeat;
 }
 .game2{
 	color: orange;
@@ -95,28 +95,28 @@ font-size: 30px;
 	font-family:'Shadows Into Light', cursive;
 }
 .background7{
-	background: url("file:///Users/apple/Desktop/My%20First%20Project/Mind%20Games/img/background7.jpg") no-repeat;
+	background: url("img/background7.jpg") no-repeat;
 }
 .background8{
-	background: url("file:///Users/apple/Desktop/My%20First%20Project/Mind%20Games/img/background8.jpg") no-repeat;
+	background: url("img/background8.jpg") no-repeat;
 }
 .background9{
-	background:url("file:///Users/apple/Desktop/My%20First%20Project/Mind%20Games/img/backgroung9.jpg") no-repeat;
+	background:url("img/backgroung9.jpg") no-repeat;
 }
 .background10{
-	background: url("file:///Users/apple/Desktop/My%20First%20Project/Mind%20Games/img/background10.png") no-repeat;
+	background: url("img/background10.png") no-repeat;
 }
 .background11{
-	background: url("file:///Users/apple/Desktop/My%20First%20Project/Mind%20Games/img/background11.jpg") no-repeat;
+	background: url("img/background11.jpg") no-repeat;
 }
 .background12{
-	background: url("file:///Users/apple/Desktop/My%20First%20Project/Mind%20Games/img/background12.jpg") no-repeat;
+	background: url("img/background12.jpg") no-repeat;
 }
 .background13{
-	background: url("file:///Users/apple/Desktop/My%20First%20Project/Mind%20Games/img/background13.jpg") no-repeat;
+	background: url("img/background13.jpg") no-repeat;
 }
 .background14{
-	background: url("file:///Users/apple/Desktop/My%20First%20Project/Mind%20Games/img/background14.jpg") no-repeat;
+	background: url("img/background14.jpg") no-repeat;
 }
 
 /*lights*/
